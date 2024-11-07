@@ -6,8 +6,6 @@ I am currently a second-year computer science student, expanding my knowledge in
 
 - 👨‍💻 I’m passionate about creating and enhancing projects that incorporate web development skills.
 
-- 💬 Ask me anything about programming—I’m happy to help!
-
 - 🎮 Outside of tech, I’m into video games and 🏋️‍♂️ practice calisthenics to stay fit.
 
 ## Languages and Tools 🛠️
