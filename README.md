@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Juan Ignacio Silva</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am currently a second-year computer science student, expanding my knowledge in both front-end and back-end development. I also enjoy learning about different programming topics on my own, always aiming to improve my skills.
+I am a third-year computer science student specializing in full-stack development. I enjoy learning about different programming topics on my own and always strive to improve my skills.
 
 - 🌱 I’m constantly learning new technologies to apply them in development projects.
 
